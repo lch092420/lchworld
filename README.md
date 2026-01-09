@@ -1,1 +1,6 @@
 # lchworld
+
+
+
+-hard
+
